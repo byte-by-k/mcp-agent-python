@@ -216,7 +216,7 @@ asyncio.run(main())
 
 ## Related Projects
 
-- **[lazarus-lib](https://github.com/byte-by-k/lazarus-lib)** — The Spring library that captures failures into the Healer DB
+- **[lazarus-lib](https://github.com/byte-by-k/lazarus-lib)** — The Spring library that captures failures into the Lazarus DB
 - **[lazarus-mcp](https://github.com/byte-by-k/lazarus-mcp)** — The MCP server this agent talks to
 - **[mcp-agent-java](https://github.com/byte-by-k/mcp-agent-java)** — The same agent pattern in Java
 
